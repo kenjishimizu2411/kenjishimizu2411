@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá! Sou o Kenji</h1>
-<h3 align="center">Desenvolvedor Python | Full Stack em formação | Experiência forte em ERP, Fiscal e Dados</h3>
+<h2 align="center">👋 Olá! Sou o Kenji</h2>
+<h4 align="center">Desenvolvedor Python | Full Stack em formação | Experiência forte em ERP, Fiscal e Dados</h4>
 
 ---
 
@@ -74,4 +74,4 @@ Aplicação do algoritmo K-Means para agrupar documentos de múltiplos autores, 
 
 ---
 
-<h3 align="center">✨ “Código é ferramenta. Solução é o objetivo.” ✨</h3>
+<h4 align="center">✨ “Código é ferramenta. Solução é o objetivo.” ✨</h4>
