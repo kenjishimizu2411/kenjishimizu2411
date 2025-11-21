@@ -68,7 +68,7 @@ Aplicação do algoritmo K-Means para agrupar documentos de múltiplos autores, 
 ---
 
 ## 📫 Contato
-📧 **shimizu.98@hotmail.com**  
+📧 **E-mail:** shimizu.98@hotmail.com 
 💼 **LinkedIn:** https://www.linkedin.com/in/kenji-lopes-shimizu-8a7462371  
 🐙 **GitHub:** https://github.com/kenjishimizu2411  
 
