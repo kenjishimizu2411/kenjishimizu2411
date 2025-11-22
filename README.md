@@ -1,76 +1,100 @@
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kenjishimizu2411&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjishimizu2411&layout=compact&theme=dracula&langs_count=7"/>
+</div>
+
+<hr/>
+
 <h2 align="center">👋 Olá! Sou o Kenji</h2>
-<h4 align="center">Desenvolvedor Python | Full Stack em formação | Experiência forte em ERP, Fiscal e Dados</h4>
+<h4 align="center">Desenvolvedor Python & Full Stack Jr | Especialista em Lógica de ERP, Varejo e Dados</h4>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenji-lopes-shimizu-dev">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:shimizu.98@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
 ## 🚀 Sobre mim
-Sou **Analista de Sistemas Sênior** em transição estruturada para **Desenvolvedor Python Full Stack**, com 6 anos de experiência na Alterdata Software.
+Sou um **Desenvolvedor em Transição de Carreira** com um diferencial competitivo: **6 anos de experiência de mercado** na Alterdata Software.
 
-Gosto tanto do **backend** (lógica, integrações, dados) quanto do **frontend** (experiência, interfaces), e meu foco atual é transformar essa união em soluções completas e funcionais.
+Minha bagagem não é apenas código; é **Regra de Negócio**. Sei como funciona um ERP, um sistema fiscal e a operação de varejo. Hoje, uso **Python** e **JavaScript** para transformar esse conhecimento em software eficiente.
 
-📌 **Buscando minha primeira oportunidade como Dev Python Júnior/Trainee**  
-📌 Interesse em backend, automações, APIs, integrações e desenvolvimento full stack  
-📌 Experiência real com processos empresariais, fiscais e de banco de dados  
+* 🔭 **Foco Atual:** Desenvolvimento Backend com Python (Django/FastAPI) e automações inteligentes.
+* 💼 **Objetivo:** Primeira oportunidade como Dev Júnior/Trainee, trazendo maturidade profissional e visão sistêmica.
+* 💡 **Diferencial:** Consigo traduzir a necessidade do cliente (negócio) para a solução técnica (código) sem ruídos.
 
 ---
 
-## 🐍 Tech Stack
-**Linguagens & Ferramentas**
+## 🛠 Tech Stack
+
+**Backend & Dados**
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+
+**Frontend & Web**
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+  <img align="center" alt="Js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+**Ferramentas & Versionamento**
 <div style="display: flex; gap: 10px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
 ---
 
-## 💠 O que me diferencia
-### 🧑‍🏫 Liderança e Gestão de Pessoas  
-Gerenciei turmas e todo o processo de aprendizagem de novos colaboradores, garantindo absorção real de conteúdos técnicos e comportamentais.
+## 💠 Soft Skills (Da Sala de Aula para o Código)
 
-### 📚 Desenvolvimento de Conteúdo (Instructional Design)  
-Criação e atualização de manuais, e-books, apresentações, cursos e roteiros — sempre com foco em Gestão, Fiscal, Tributário, Vendas e Banco de Dados.
+Minha experiência como **Instrutor Técnico** moldou como eu trabalho com TI:
 
-### 🎓 Entrega de Treinamentos de Alto Impacto  
-Aulas presenciais e online utilizando metodologias dinâmicas, práticas e orientadas à retenção máxima do conteúdo.
-
-### 🎥 Produção Multimídia  
-Liderança na gravação de vídeos, condução de lives e transformação de temas complexos em conteúdo acessível e escalável para centenas de colaboradores.
-
-### 📈 Avaliação de Eficácia  
-Aplicação de métricas, indicadores e avaliações para medir desempenho e ajustar treinamentos, garantindo níveis elevados de entrega e resultados.
+* **Documentação Técnica (Instructional Design):** Habilidade avançada em criar manuais e documentar processos. Código sem documentação é código morto.
+* **Comunicação & Mentoria:** Facilidade em explicar conceitos técnicos complexos para leigos e stakeholders (clientes/gestores).
+* **Visão de Produto:** Entendo que o software precisa resolver uma dor real do usuário final (Customer Centric).
 
 ---
 
 ## 🧪 Projetos em Destaque
-🔹 **TimeChecker**  
-Automação desktop para consulta em lote da duração de vídeos hospedados no Vimeo.
 
-🔹 **Price Stalker**  
-Solução que monitora produtos definidos pelo usuário para identificar o melhor preço e disparar alertas ou gatilhos de compra.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔹 TimeChecker</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-Automation-blue" alt="Tech Badge">
+         <img src="https://img.shields.io/badge/Desktop-Tkinter-green" alt="Tech Badge">
+      </div>
+      <p align="center">
+        Automação desktop para consulta em lote da duração de vídeos no Vimeo. Economiza horas de verificação manual.
+      </br>
+      <a href="[https://github.com/kenjishimizu2411/time_checker]"><strong>Ver Código »</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔹 Price Stalker</h3>
+      <div align="center">
+         <img src="https://img.shields.io/badge/Python-WebScraping-yellow" alt="Tech Badge">
+         <img src="https://img.shields.io/badge/Dados-Automation-orange" alt="Tech Badge">
+      </div>
+      <p align="center">
+        Monitor de preços inteligente. Rastreia produtos definidos, identifica o melhor preço e dispara alertas de oportunidade.
+      </br>
+      <a href="[https://github.com/kenjishimizu2411/price_stalker]"><strong>Ver Código »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-🔹 **TextualKMeans**  
-Aplicação do algoritmo K-Means para agrupar documentos de múltiplos autores, utilizando TF-IDF para extrair a "assinatura de vocabulário" e identificar padrões estilísticos.
-
----
-
-## 💬 Como trabalho
-✔ Comunicação clara e foco em resultado  
-✔ Organização e responsabilidade  
-✔ Facilidade para trabalhar com pessoas (turmas, equipes e clientes)  
-✔ Aprendizagem rápida e prática diária de código  
-✔ Solução de problemas reais com visão de negócio  
-
----
-
-## 📫 Contato
-📧 **E-mail:** shimizu.98@hotmail.com 
-💼 **LinkedIn:** https://www.linkedin.com/in/kenji-lopes-shimizu-8a7462371  
-🐙 **GitHub:** https://github.com/kenjishimizu2411  
+> **Nota:** Confira também o projeto **TextualKMeans** nos meus repositórios, onde aplico Machine Learning, DataMining e Kmeans para análise estilística de textos, para um trabalho da faculdade.
 
 ---
 
