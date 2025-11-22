@@ -76,7 +76,7 @@ Minha experiência como **Instrutor Técnico** moldou como eu trabalho com TI:
       <p align="center">
         Automação desktop para consulta em lote da duração de vídeos no Vimeo. Economiza horas de verificação manual.
       </br>
-      <a href="[https://github.com/kenjishimizu2411/time_checker]"><strong>Ver Código »</strong></a>
+      <a href="https://github.com/kenjishimizu2411/time_checker"><strong>Ver Código »</strong></a>
       </p>
     </td>
     <td width="50%">
@@ -88,7 +88,7 @@ Minha experiência como **Instrutor Técnico** moldou como eu trabalho com TI:
       <p align="center">
         Monitor de preços inteligente. Rastreia produtos definidos, identifica o melhor preço e dispara alertas de oportunidade.
       </br>
-      <a href="[https://github.com/kenjishimizu2411/price_stalker]"><strong>Ver Código »</strong></a>
+      <a href="https://github.com/kenjishimizu2411/price_stalker"><strong>Ver Código »</strong></a>
       </p>
     </td>
   </tr>
