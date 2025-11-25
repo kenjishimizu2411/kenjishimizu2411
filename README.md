@@ -1,6 +1,3 @@
-
-<hr/>
-
 <h2 align="center">👋 Olá! Sou o Kenji</h2>
 <h4 align="center">Desenvolvedor Python & Full Stack Jr | Especialista em Lógica de ERP, Varejo e Dados</h4>
 
@@ -15,17 +12,6 @@
 
 ---
 
-## 🚀 Sobre mim
-Sou um **Desenvolvedor em Transição de Carreira** com um diferencial competitivo: **6 anos de experiência de mercado** na Alterdata Software.
-
-Minha bagagem não é apenas código; é **Regra de Negócio**. Sei como funciona um ERP, um sistema fiscal e a operação de varejo. Hoje, uso **Python** e **JavaScript** para transformar esse conhecimento em software eficiente.
-
-* 🔭 **Foco Atual:** Desenvolvimento Backend com Python (Django/FastAPI) e automações inteligentes.
-* 💼 **Objetivo:** Primeira oportunidade como Dev Júnior/Trainee, trazendo maturidade profissional e visão sistêmica.
-* 💡 **Diferencial:** Consigo traduzir a necessidade do cliente (negócio) para a solução técnica (código) sem ruídos.
-
----
-
 <div align="center">
   <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,6 +23,17 @@ Minha bagagem não é apenas código; é **Regra de Negócio**. Sei como funcion
   
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
+---
+
+## 🚀 Sobre mim
+Sou um **Desenvolvedor em Transição de Carreira** com um diferencial competitivo: **6 anos de experiência de mercado** na Alterdata Software.
+
+Minha bagagem não é apenas código; é **Regra de Negócio**. Sei como funciona um ERP, um sistema fiscal e a operação de varejo. Hoje, uso **Python** e **JavaScript** para transformar esse conhecimento em software eficiente.
+
+* 🔭 **Foco Atual:** Desenvolvimento Backend com Python (Django/FastAPI) e automações inteligentes.
+* 💼 **Objetivo:** Primeira oportunidade como Dev Júnior/Trainee, trazendo maturidade profissional e visão sistêmica.
+* 💡 **Diferencial:** Consigo traduzir a necessidade do cliente (negócio) para a solução técnica (código) sem ruídos.
 
 ---
 
